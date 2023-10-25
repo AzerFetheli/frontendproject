@@ -1,0 +1,132 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "",
+            "description": "Alien ware Monitor T 46",
+            "rating": 4.69,
+            "brand": "Samsung",
+            "category": "Tv",
+            "price": 850,
+            "images": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_4661881d-c8c7-4d3b-962e-038344e4ac81_600x600.png?v=1671451100",
+            "options": [
+                {
+                    "inches": "32",
+                    
+                    "discountedPrice": 850
+                },
+                {
+                    "inches": "28",
+                    "price": 800,
+                    "discountedPrice": 800
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "",
+            "description": "Colossus Ergonomic...",
+            "rating": 4.69,
+            "brand": "Kepler Brooks",
+            "category": "Chairs",
+            "price": 356,
+            "images": "https://gaming-workdo.myshopify.com/cdn/shop/products/1_50862e3f-4e56-4d7c-9220-04cde28aca6d_600x600.png?v=1671448019",
+            "options": [
+                {
+                    "color": "White",
+                    
+                    "discountedPrice": 356
+                },
+                {
+                    "color": "Green",
+                    "price": 240,
+                    "discountedPrice": 240
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "",
+            "description": "Electrobot Xtreme Gamin...",
+            "rating": 4.69,
+            "brand": "Electrobot",
+            "price": 468,
+            "category": "gaming",
+            "images": "https://gaming-workdo.myshopify.com/cdn/shop/products/gx6-back-1000-removebg-preview_600x600.png?v=1671451565",
+            "options": [
+                {
+                    "size": "128 GB",
+                    
+                    "discountedPrice": 468
+                },
+                {
+                    "size": "256",
+                    "price": 500,
+                    "discountedPrice": 500
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "",
+            "description": "Nintendi Switch Lite-...",
+            "rating": 4.69,
+            "brand": "XFK",
+            "category": "",
+            "price": 543,
+            "images": "https://gaming-workdo.myshopify.com/cdn/shop/products/1-1_600x600.png?v=1671449884",
+            "options": [
+                {
+                    "color": "blue",
+                   
+                    "discountedPrice": 543
+                },
+                {
+                    "color": "White",
+                    "price": 500,
+                    "discountedPrice": 500
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "",
+            "description": "Cloud Alpha Gaming...",
+            "rating": 4.69,
+            "brand": "HyperX",
+            "category": "",
+            "price": 530.00,
+            "images": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_cloud_alpha_black_1_main_1600x-removebg-preview_600x600.png?v=1671444553",
+            "options": [
+                {
+                    "color": "black",
+                
+                    "discountedPrice": 530
+                },
+                {
+                    "color": "red",
+                    "price": 500,
+                    "discountedPrice": 500
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "",
+            "description": "Hyper Clutch Gaming...",
+            "rating": 4.69,
+            "brand": "Sony PS-5",
+            "price": 600,
+            "category": "smartphones",
+            "images": "https://gaming-workdo.myshopify.com/cdn/shop/products/hyperx_chargeplay_duo_xbox_2_angled_controller_900x-removebg-preview_600x600.png?v=1671445499",
+            "options": [
+                {
+                    "color": "black",
+                   
+                    "discountedPrice": 600
+                }
+                
+            ]
+        }
+    ]
+}

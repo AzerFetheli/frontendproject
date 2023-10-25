@@ -1,0 +1,250 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Times New Roman", Times, serif;
+}
+.about {
+    width: 100%;
+    height: 65vh;
+    background-color: black;
+}
+.top {
+    position: absolute;
+    top: 30%;
+    left: 11%;
+    color: white;
+}
+.top > .Back {
+    color: white;
+    display: block;
+}
+.top > .Back > i {
+    padding: 10px;
+    font-size: 9px;
+    border: 1px solid white;
+    border-radius: 100%;
+    margin-right: 7px;
+}
+.top > h1 {
+    margin-top: 30px;
+    color: transparent;
+    background: linear-gradient(75deg, #0098ff 0%, #7b35c8 100%);
+    display: inline-block;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-tap-highlight-color: text;
+    -webkit-background-clip: text;
+    background-clip: text;
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.top > span {
+    display: block;
+}
+.collide {
+    align-items: center;
+}
+.collide > h1 {
+    margin-left: 80px;
+    margin-top: 70px;
+    font-size: 41px;
+    font-weight: 800;
+    color: #838383;
+}
+.collide > p {
+    display: inline-block;
+    width: 35%;
+    margin: 20px 80px;
+    text-align: center;
+    color: #838383;
+}
+.unleash > h1 {
+    color: #838383;
+    text-align: center;
+    font-weight: 800;
+    font-size: 40px;
+}
+.float1 {
+    position: relative;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+.float1 > .text {
+    width: 30%;
+    margin-left: 150px;
+    margin-top: 100px;
+}
+.float1 > .text > p {
+    color: #838383;
+    font-size: 15px;
+    font-weight: 700;
+}
+.float1 > .text > h1 {
+    color: #838383;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.float2 {
+    display: flex;
+    justify-content: space-around;
+}
+.float2 > .text1 {
+    width: 30%;
+    margin-right: 150px;
+    margin-top: 100px;
+}
+.float2 > .text1 > p {
+    color: #838383;
+    font-size: 15px;
+    font-weight: 700;
+}
+.float2 > .text1 > h1 {
+    color: #838383;
+    font-size: 30px;
+    font-weight: 800;
+}
+.service {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.service > h1 {
+    font-size: 40px;
+    color: #838383;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+.service > p {
+    color: #838383;
+    margin-bottom: 5px;
+}
+.three {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 30px;
+}
+.delivery {
+    width: 25%;
+    border: 1px solid blue;
+    padding: 10px;
+    color: #838383;
+}
+
+.offers {
+    width: 25%;
+    border: 1px solid blue;
+    padding: 10px;
+    color: #838383;
+}
+.support {
+    width: 25%;
+    border: 1px solid blue;
+    padding: 10px;
+    color: #838383;
+}
+.footer {
+    position: relative;
+}
+footer {
+    display: flex;
+    justify-content: space-evenly;
+
+    background-color: black;
+    width: 100%;
+    height: 60vh;
+}
+.footerimg {
+    position: absolute;
+    top: 0%;
+    right: 0%;
+}
+.footerimg1 {
+    position: absolute;
+    top: 20%;
+    left: 0%;
+}
+.aboutfooter {
+    margin-top: 60px;
+}
+.aboutfooter>img{
+    display: block;
+    margin-bottom: 20px;
+}
+.aboutfooter > h1 {
+    color: white;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.aboutfooter > span {
+    color: transparent;
+    background: linear-gradient(75deg, #0098ff 0%, #7b35c8 100%);
+    -webkit-tap-highlight-color: transparent;
+    -webkit-tap-highlight-color: text;
+    -webkit-background-clip: text;
+    background-clip: text;
+    font-weight: 800;
+    font-size: 30px;
+}
+.aboutfooter>.one{
+    color: transparent;
+    background: linear-gradient(75deg, #0098ff 0%, #7b35c8 100%);
+    display: block;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-tap-highlight-color: text;
+    -webkit-background-clip: text; 
+    background-clip: text; 
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.aboutfooter>p{
+    color: white;
+}
+.aboutfooter>.two{
+    margin-top: 50px;
+}
+.navigation{
+    margin-top: 60px;
+}
+.navigation>h1{
+color: white;
+}
+.navigation>ul>li{
+    margin-top: 10px;
+}
+.navigation>ul>li>a{
+    color: white;
+}
+.aboutus{
+    margin-top: 60px;
+}
+.aboutus>h1{
+    color: white;
+}
+.aboutus>ul>li{
+margin-top: 10px;
+}
+.aboutus>ul>li>a{
+    color: white;
+}
+.share{z-index: 1;
+    margin-top: 60px;
+    
+}
+.share>h1{
+    color: white;
+    margin-bottom: 15px;
+}
+.share>i{
+color: white;
+margin-left: 10px;
+padding: 10px;
+border: 1px solid white;
+border-radius: 20%;
+}

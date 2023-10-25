@@ -1,0 +1,23 @@
+.sectioncart{
+    width: 100%;
+   height: auto;
+    background-color: white;
+    position: relative;
+}
+.sectioncart>h1{
+    position: absolute;
+    left: 10%;
+    top: 20%;
+}
+.sectioncart>a{
+    position: absolute;
+    left: 10%;
+    top: 30%;
+}
+.shop-content-container{
+    width: 100%;
+}
+.product-item>img{
+    width: 100px;
+    height: 100px;
+}
